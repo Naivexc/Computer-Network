@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -Wall -g2 -ggdb -no-pie   CMakeFiles/rtp_test_all.dir/src/test.cpp.o  -o rtp_test_all   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib librtpsender.a librtpreceiver.a libNetConnectionInfo.a lib/libgtest_main.a libWindow.a /usr/local/lib/libfmt.a libVecRecvAck.a librtpall.a lib/libgtest.a -lpthread 

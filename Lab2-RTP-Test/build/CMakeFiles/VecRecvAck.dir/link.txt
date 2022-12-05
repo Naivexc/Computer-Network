@@ -1,2 +1,0 @@
-/usr/bin/ar qc libVecRecvAck.a  CMakeFiles/VecRecvAck.dir/src/VecRecvAck.cpp.o CMakeFiles/VecRecvAck.dir/src/RecvAckNode.cpp.o
-/usr/bin/ranlib libVecRecvAck.a

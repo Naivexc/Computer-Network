@@ -1,2 +1,0 @@
-/usr/bin/ar qc libNetConnectionInfo.a  CMakeFiles/NetConnectionInfo.dir/src/NetConnectionInfo.cpp.o
-/usr/bin/ranlib libNetConnectionInfo.a
