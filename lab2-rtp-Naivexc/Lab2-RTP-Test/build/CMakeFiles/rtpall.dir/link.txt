@@ -1,0 +1,2 @@
+/usr/bin/ar qc librtpall.a  CMakeFiles/rtpall.dir/src/rtp.cpp.o CMakeFiles/rtpall.dir/src/util.cpp.o
+/usr/bin/ranlib librtpall.a
