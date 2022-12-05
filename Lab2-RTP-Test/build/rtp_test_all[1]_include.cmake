@@ -1,0 +1,5 @@
+if(EXISTS "/home/fxh/Computer-Network/lab2-rtp-Naivexc/Lab2-RTP-Test/build/rtp_test_all[1]_tests.cmake")
+  include("/home/fxh/Computer-Network/lab2-rtp-Naivexc/Lab2-RTP-Test/build/rtp_test_all[1]_tests.cmake")
+else()
+  add_test(rtp_test_all_NOT_BUILT rtp_test_all_NOT_BUILT)
+endif()
